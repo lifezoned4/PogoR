@@ -1,0 +1,580 @@
+JoinedName,#,Name,Form,Type 1,Type 2,HP,Attack,Defense,Min CP Cap,Max CP Cap
+Bulbasaur,1,Bulbasaur,,Grass,Poison,128,118,111,878,1115
+Ivysaur,2,Ivysaur,,Grass,Poison,155,151,143,1404,1699
+Venusaur,3,Venusaur,,Grass,Poison,190,198,189,2343,2721
+Charmander,4,Charmander,,Fire,,118,116,93,759,981
+Charmeleon,5,Charmeleon,,Fire,,151,158,126,1361,1653
+Charizard,6,Charizard,,Fire,Flying,186,223,173,2498,2890
+Squirtle,7,Squirtle,,Water,,127,94,121,728,946
+Wartortle,8,Wartortle,,Water,,153,126,155,1212,1488
+Blastoise,9,Blastoise,,Water,,188,171,207,2107,2466
+Caterpie,10,Caterpie,,Bug,,128,55,55,288,437
+Metapod,11,Metapod,,Bug,,137,45,80,294,450
+Butterfree,12,Butterfree,,Bug,Flying,155,167,137,1520,1827
+Weedle,13,Weedle,,Bug,Poison,120,63,50,305,456
+Kakuna,14,Kakuna,,Bug,Poison,128,46,75,281,432
+Beedrill,15,Beedrill,,Bug,Poison,163,169,130,1537,1846
+Pidgey,16,Pidgey,,Normal,Flying,120,85,73,497,681
+Pidgeotto,17,Pidgeotto,,Normal,Flying,160,117,105,947,1195
+Pidgeot,18,Pidgeot,,Normal,Flying,195,166,154,1797,2130
+Rattata Alolan,19,Rattata,Alolan,Dark,Normal,102,103,70,544,735
+Rattata Normal,19,Rattata,Normal,Normal,,102,103,70,544,735
+Rattata Normal,19,Rattata,Normal,Normal,,102,103,70,544,735
+Raticate Alolan,20,Raticate,Alolan,Dark,Normal,181,135,154,1408,1705
+Raticate Normal,20,Raticate,Normal,Normal,,146,161,139,1432,1731
+Raticate Normal,20,Raticate,Normal,Normal,,146,161,139,1432,1731
+Spearow,21,Spearow,,Normal,Flying,120,112,60,594,798
+Fearow,22,Fearow,,Normal,Flying,163,182,133,1674,1997
+Ekans,23,Ekans,,Poison,,111,110,97,713,927
+Arbok,24,Arbok,,Poison,,155,167,153,1606,1921
+Pikachu,25,Pikachu,,Electric,,111,112,96,722,938
+Raichu Alolan,26,Raichu,Alolan,Electric,Psychic,155,201,154,1940,2287
+Raichu Normal,26,Raichu,Normal,Electric,,155,193,151,1844,2182
+Raichu Normal,26,Raichu,Normal,Electric,,155,193,151,1844,2182
+Sandshrew Alolan,27,Sandshrew,Alolan,Ice,Steel,137,125,129,1038,1294
+Sandshrew Normal,27,Sandshrew,Normal,Ground,,137,126,120,1009,1262
+Sandshrew Normal,27,Sandshrew,Normal,Ground,,137,126,120,1009,1262
+Sandslash Alolan,28,Sandslash,Alolan,Ice,Steel,181,177,195,2077,2433
+Sandslash Normal,28,Sandslash,Normal,Ground,,181,182,175,2023,2374
+Sandslash Normal,28,Sandslash,Normal,Ground,,181,182,175,2023,2374
+Nidoran F,29,Nidoran F,,Poison,,146,86,89,612,816
+Nidorina,30,Nidorina,,Poison,,172,117,120,1050,1310
+Nidoqueen,31,Nidoqueen,,Poison,Ground,207,180,173,2127,2488
+Nidoran M,32,Nidoran M,,Poison,,130,105,76,652,861
+Nidorino,33,Nidorino,,Poison,,156,137,111,1126,1394
+Nidoking,34,Nidoking,,Poison,Ground,191,204,156,2199,2567
+Clefairy,35,Clefairy,,Fairy,,172,107,108,911,1156
+Clefable,36,Clefable,,Fairy,,216,178,162,2080,2437
+Vulpix Alolan,37,Vulpix,Alolan,Ice,,116,96,109,674,884
+Vulpix Normal,37,Vulpix,Normal,Fire,,116,96,109,674,884
+Vulpix Normal,37,Vulpix,Normal,Fire,,116,96,109,674,884
+Ninetales Alolan,38,Ninetales,Alolan,Ice,Fairy,177,170,193,1962,2309
+Ninetales Normal,38,Ninetales,Normal,Fire,,177,169,190,1936,2280
+Ninetales Normal,38,Ninetales,Normal,Fire,,177,169,190,1936,2280
+Jigglypuff,39,Jigglypuff,,Normal,Fairy,251,80,41,507,724
+Wigglytuff,40,Wigglytuff,,Normal,Fairy,295,156,90,1588,1927
+Zubat,41,Zubat,,Poison,Flying,120,83,73,485,667
+Golbat,42,Golbat,,Poison,Flying,181,161,150,1657,1977
+Oddish,43,Oddish,,Grass,Poison,128,131,112,980,1229
+Gloom,44,Gloom,,Grass,Poison,155,153,136,1387,1681
+Vileplume,45,Vileplume,,Grass,Poison,181,202,167,2193,2560
+Paras,46,Paras,,Bug,Grass,111,121,99,792,1018
+Parasect,47,Parasect,,Bug,Grass,155,165,146,1550,1860
+Venonat,48,Venonat,,Bug,Poison,155,100,100,778,1004
+Venomoth,49,Venomoth,,Bug,Poison,172,179,143,1753,2083
+Diglett Alolan,50,Diglett,Alolan,Ground,Steel,67,108,81,497,682
+Diglett Normal,50,Diglett,Normal,Ground,,67,109,78,492,676
+Diglett Normal,50,Diglett,Normal,Ground,,67,109,78,492,676
+Dugtrio Alolan,51,Dugtrio,Alolan,Ground,Steel,111,201,142,1576,1897
+Dugtrio Normal,51,Dugtrio,Normal,Ground,,111,167,134,1272,1558
+Dugtrio Normal,51,Dugtrio,Normal,Ground,,111,167,136,1282,1568
+Meowth Alolan,52,Meowth,Alolan,Dark,,120,99,78,598,798
+Meowth Normal,52,Meowth,Normal,Normal,,120,92,78,556,749
+Meowth Normal,52,Meowth,Normal,Normal,,120,92,78,556,749
+Persian Alolan,53,Persian,Alolan,Dark,,163,158,136,1469,1771
+Persian Normal,53,Persian,Normal,Normal,,163,150,136,1395,1690
+Persian Normal,53,Persian,Normal,Normal,,163,150,136,1395,1690
+Psyduck,54,Psyduck,,Water,,137,122,95,869,1106
+Golduck,55,Golduck,,Water,,190,191,162,2093,2451
+Mankey,56,Mankey,,Fighting,,120,148,82,917,1165
+Primeape,57,Primeape,,Fighting,,163,207,138,1939,2288
+Growlithe,58,Growlithe,,Fire,,146,136,93,990,1244
+Arcanine,59,Arcanine,,Fire,,207,227,166,2628,3030
+Poliwag,60,Poliwag,,Water,,120,101,82,626,829
+Poliwhirl,61,Poliwhirl,,Water,,163,130,123,1150,1419
+Poliwrath,62,Poliwrath,,Water,Fighting,207,182,184,2218,2586
+Abra,63,Abra,,Psychic,,93,195,82,1064,1342
+Kadabra,64,Kadabra,,Psychic,,120,232,117,1717,2059
+Alakazam,65,Alakazam,,Psychic,,146,271,167,2643,3058
+Machop,66,Machop,,Fighting,,172,137,82,1016,1279
+Machoke,67,Machoke,,Fighting,,190,177,125,1704,2032
+Machamp,68,Machamp,,Fighting,,207,234,159,2651,3057
+Bellsprout,69,Bellsprout,,Grass,Poison,137,139,61,794,1034
+Weepinbell,70,Weepinbell,,Grass,Poison,163,172,92,1316,1612
+Victreebel,71,Victreebel,,Grass,Poison,190,207,135,2071,2431
+Tentacool,72,Tentacool,,Water,Poison,120,97,149,810,1041
+Tentacruel,73,Tentacruel,,Water,Poison,190,166,209,2066,2422
+Geodude Alolan,74,Geodude,Alolan,Rock,Electric,120,132,132,1038,1293
+Geodude Normal,74,Geodude,Normal,Rock,Ground,120,132,132,1038,1293
+Geodude Normal,74,Geodude,Normal,Rock,Ground,120,132,132,1038,1293
+Graveler Alolan,75,Graveler,Alolan,Rock,Electric,146,164,164,1585,1898
+Graveler Normal,75,Graveler,Normal,Rock,Ground,146,164,164,1585,1898
+Graveler Normal,75,Graveler,Normal,Rock,Ground,146,164,164,1585,1898
+Golem Alolan,76,Golem,Alolan,Rock,Electric,190,211,198,2556,2950
+Golem Normal,76,Golem,Normal,Rock,Ground,190,211,198,2556,2950
+Golem Normal,76,Golem,Normal,Rock,Ground,190,211,198,2556,2950
+Ponyta,77,Ponyta,,Fire,,137,170,127,1401,1698
+Rapidash,78,Rapidash,,Fire,,163,207,162,2101,2461
+Slowpoke,79,Slowpoke,,Water,Psychic,207,109,98,970,1227
+Slowbro,80,Slowbro,,Water,Psychic,216,177,180,2180,2545
+Magnemite,81,Magnemite,,Electric,Steel,93,165,121,1093,1363
+Magneton,82,Magneton,,Electric,Steel,137,223,169,2119,2486
+Farfetch'd,83,Farfetch'd,,Normal,Flying,141,124,115,986,1236
+Doduo,84,Doduo,,Normal,Flying,111,158,83,947,1201
+Dodrio,85,Dodrio,,Normal,Flying,155,218,140,2006,2362
+Seel,86,Seel,,Water,,163,85,121,746,972
+Dewgong,87,Dewgong,,Water,Ice,207,139,177,1662,1986
+Grimer Alolan,88,Grimer,Alolan,Poison,Dark,190,135,90,1103,1375
+Grimer Normal,88,Grimer,Normal,Poison,,190,135,90,1103,1375
+Grimer Normal,88,Grimer,Normal,Poison,,190,135,90,1103,1375
+Muk Alolan,89,Muk,Alolan,Poison,Dark,233,190,172,2376,2757
+Muk Normal,89,Muk,Normal,Poison,,233,190,172,2376,2757
+Muk Normal,89,Muk,Normal,Poison,,233,190,172,2376,2757
+Shellder,90,Shellder,,Water,,102,116,134,847,1080
+Cloyster,91,Cloyster,,Water,Ice,137,186,256,2176,2548
+Gastly,92,Gastly,,Ghost,Poison,102,186,67,960,1230
+Haunter,93,Haunter,,Ghost,Poison,128,223,107,1630,1963
+Gengar,94,Gengar,,Ghost,Poison,155,261,149,2477,2878
+Onix,95,Onix,,Rock,Ground,111,85,232,852,1102
+Drowzee,96,Drowzee,,Psychic,,155,89,136,807,1041
+Hypno,97,Hypno,,Psychic,,198,144,193,1758,2090
+Krabby,98,Krabby,,Water,,102,181,124,1271,1561
+Kingler,99,Kingler,,Water,,146,240,181,2437,2829
+Voltorb,100,Voltorb,,Electric,,120,109,111,786,1010
+Electrode,101,Electrode,,Electric,,155,173,173,1769,2099
+Exeggcute,102,Exeggcute,,Grass,Psychic,155,107,125,930,1176
+Exeggutor Alolan,103,Exeggutor,Alolan,Grass,Dragon,216,230,153,2611,3014
+Exeggutor Normal,103,Exeggutor,Normal,Grass,Psychic,216,233,149,2611,3015
+Exeggutor Normal,103,Exeggutor,Normal,Grass,Psychic,216,233,149,2611,3015
+Cubone,104,Cubone,,Ground,,137,90,144,790,1020
+Marowak Alolan,105,Marowak,Alolan,Fire,Ghost,155,144,186,1527,1836
+Marowak Normal,105,Marowak,Normal,Ground,,155,144,186,1527,1836
+Marowak Normal,105,Marowak,Normal,Ground,,155,144,186,1527,1836
+Hitmonlee,106,Hitmonlee,,Fighting,,137,224,181,2203,2577
+Hitmonchan,107,Hitmonchan,,Fighting,,137,193,197,1980,2332
+Lickitung,108,Lickitung,,Normal,,207,108,137,1136,1411
+Koffing,109,Koffing,,Poison,,120,119,141,967,1215
+Weezing,110,Weezing,,Poison,,163,174,197,1947,2293
+Rhyhorn,111,Rhyhorn,,Ground,Rock,190,140,127,1358,1652
+Rhydon,112,Rhydon,,Ground,Rock,233,222,171,2768,3179
+Chansey,113,Chansey,,Normal,,487,60,128,936,1255
+Tangela,114,Tangela,,Grass,,163,183,169,1897,2238
+Kangaskhan,115,Kangaskhan,,Normal,,233,181,165,2217,2586
+Horsea,116,Horsea,,Water,,102,129,103,826,1057
+Seadra,117,Seadra,,Water,,146,187,156,1763,2093
+Goldeen,118,Goldeen,,Water,,128,123,110,912,1152
+Seaking,119,Seaking,,Water,,190,175,147,1827,2163
+Staryu,120,Staryu,,Water,,102,137,112,915,1157
+Starmie,121,Starmie,,Water,Psychic,155,210,184,2215,2585
+Mr. Mime,122,Mr. Mime,,Psychic,Fairy,120,192,205,1881,2228
+Scyther,123,Scyther,,Bug,Flying,172,218,170,2328,2707
+Jynx,124,Jynx,,Ice,Psychic,163,223,151,2185,2555
+Electabuzz,125,Electabuzz,,Electric,,163,198,158,1985,2335
+Magmar,126,Magmar,,Fire,,163,206,154,2038,2394
+Pinsir,127,Pinsir,,Bug,,163,238,182,2560,2959
+Tauros,128,Tauros,,Normal,,181,198,183,2251,2621
+Magikarp,129,Magikarp,,Water,,85,29,85,154,275
+Gyarados,130,Gyarados,,Water,Flying,216,237,186,2967,3391
+Lapras,131,Lapras,,Water,Ice,277,165,174,2262,2641
+Ditto,132,Ditto,,Normal,,134,91,91,628,832
+Eevee,133,Eevee,,Normal,,146,104,114,838,1071
+Vaporeon,134,Vaporeon,,Water,,277,205,161,2704,3115
+Jolteon,135,Jolteon,,Electric,,163,232,182,2496,2889
+Flareon,136,Flareon,,Fire,,163,246,179,2624,3029
+Porygon,137,Porygon,,Normal,,163,153,136,1423,1720
+Omanyte,138,Omanyte,,Rock,Water,111,155,153,1262,1545
+Omastar,139,Omastar,,Rock,Water,172,207,201,2404,2787
+Kabuto,140,Kabuto,,Rock,Water,102,148,140,1105,1371
+Kabutops,141,Kabutops,,Rock,Water,155,220,186,2333,2713
+Aerodactyl,142,Aerodactyl,,Rock,Flying,190,221,159,2399,2784
+Snorlax,143,Snorlax,,Normal,,330,190,169,2802,3226
+Articuno,144,Articuno,,Ice,Flying,207,192,236,2650,3052
+Zapdos,145,Zapdos,,Electric,Flying,207,253,185,3092,3527
+Moltres,146,Moltres,,Fire,Flying,207,251,181,3034,3466
+Dratini,147,Dratini,,Dragon,,121,119,91,780,1005
+Dragonair,148,Dragonair,,Dragon,,156,163,135,1477,1781
+Dragonite,149,Dragonite,,Dragon,Flying,209,263,198,3342,3793
+Mewtwo,150,Mewtwo,,Psychic,,214,300,182,3698,4179
+Mew,151,Mew,,Psychic,,225,210,210,2851,3266
+Chikorita,152,Chikorita,,Grass,,128,92,122,718,935
+Bayleef,153,Bayleef,,Grass,,155,122,155,1181,1455
+Meganium,154,Meganium,,Grass,,190,168,202,2056,2411
+Cyndaquil,155,Cyndaquil,,Fire,,118,116,93,759,981
+Quilava,156,Quilava,,Fire,,151,158,126,1361,1653
+Typhlosion,157,Typhlosion,,Fire,,186,223,173,2498,2890
+Totodile,158,Totodile,,Water,,137,117,109,893,1132
+Croconaw,159,Croconaw,,Water,,163,150,142,1425,1723
+Feraligatr,160,Feraligatr,,Water,,198,205,188,2470,2857
+Sentret,161,Sentret,,Normal,,111,79,73,444,618
+Furret,162,Furret,,Normal,,198,148,125,1454,1758
+Hoothoot,163,Hoothoot,,Normal,Flying,155,67,88,489,678
+Noctowl,164,Noctowl,,Normal,Flying,225,145,156,1697,2024
+Ledyba,165,Ledyba,,Bug,Flying,120,72,118,535,728
+Ledian,166,Ledian,,Bug,Flying,146,107,179,1080,1347
+Spinarak,167,Spinarak,,Bug,Poison,120,105,73,614,817
+Ariados,168,Ariados,,Bug,Poison,172,161,124,1469,1772
+Crobat,169,Crobat,,Poison,Flying,198,194,178,2275,2647
+Chinchou,170,Chinchou,,Water,Electric,181,106,97,877,1120
+Lanturn,171,Lanturn,,Water,Electric,268,146,137,1747,2086
+Pichu,172,Pichu,,Electric,,85,77,53,323,474
+Cleffa,173,Cleffa,,Fairy,,137,75,79,487,672
+Igglybuff,174,Igglybuff,,Normal,Fairy,207,69,32,351,536
+Togepi,175,Togepi,,Fairy,,111,67,116,475,658
+Togetic,176,Togetic,,Fairy,Flying,146,139,181,1411,1709
+Natu,177,Natu,,Psychic,Flying,120,134,89,865,1103
+Xatu,178,Xatu,,Psychic,Flying,163,192,146,1850,2189
+Mareep,179,Mareep,,Electric,,146,114,79,765,991
+Flaaffy,180,Flaaffy,,Electric,,172,145,109,1240,1522
+Ampharos,181,Ampharos,,Electric,,207,211,169,2465,2853
+Bellossom,182,Bellossom,,Grass,,181,169,186,1937,2281
+Marill,183,Marill,,Water,Fairy,172,37,93,292,462
+Azumarill,184,Azumarill,,Water,Fairy,225,112,152,1294,1588
+Sudowoodo,185,Sudowoodo,,Rock,,172,167,176,1815,2148
+Politoed,186,Politoed,,Water,,207,174,179,2092,2450
+Hoppip,187,Hoppip,,Grass,Flying,111,67,94,427,600
+Skiploom,188,Skiploom,,Grass,Flying,146,91,120,752,976
+Jumpluff,189,Jumpluff,,Grass,Flying,181,118,183,1341,1636
+Aipom,190,Aipom,,Normal,,146,136,112,1086,1349
+Sunkern,191,Sunkern,,Grass,,102,55,55,257,396
+Sunflora,192,Sunflora,,Grass,,181,185,135,1806,2142
+Yanma,193,Yanma,,Bug,Flying,163,154,94,1191,1470
+Wooper,194,Wooper,,Water,Ground,146,75,66,460,642
+Quagsire,195,Quagsire,,Water,Ground,216,152,143,1668,1993
+Espeon,196,Espeon,,Psychic,,163,261,175,2753,3170
+Umbreon,197,Umbreon,,Dark,,216,126,240,1792,2137
+Murkrow,198,Murkrow,,Dark,Flying,155,175,87,1269,1563
+Slowking,199,Slowking,,Water,Psychic,216,177,180,2180,2545
+Misdreavus,200,Misdreavus,,Ghost,,155,167,154,1611,1927
+Unown,201,Unown,,Psychic,,134,136,91,938,1185
+Wobbuffet,202,Wobbuffet,,Psychic,,382,60,106,754,1027
+Girafarig,203,Girafarig,,Normal,Psychic,172,182,133,1719,2047
+Pineco,204,Pineco,,Bug,,137,108,122,872,1109
+Forretress,205,Forretress,,Bug,Steel,181,161,205,1937,2283
+Dunsparce,206,Dunsparce,,Normal,,225,131,128,1389,1689
+Gligar,207,Gligar,,Ground,Flying,163,143,184,1547,1857
+Steelix,208,Steelix,,Steel,Ground,181,148,272,2051,2415
+Snubbull,209,Snubbull,,Fairy,,155,137,85,982,1238
+Granbull,210,Granbull,,Fairy,,207,212,131,2180,2552
+Qwilfish,211,Qwilfish,,Water,Poison,163,184,138,1724,2051
+Scizor,212,Scizor,,Bug,Steel,172,236,181,2601,3001
+Shuckle,213,Shuckle,,Bug,Rock,85,17,396,195,405
+Heracross,214,Heracross,,Bug,Fighting,190,234,179,2695,3101
+Sneasel,215,Sneasel,,Dark,Ice,146,189,146,1723,2051
+Teddiursa,216,Teddiursa,,Normal,,155,142,93,1065,1329
+Ursaring,217,Ursaring,,Normal,,207,236,144,2545,2945
+Slugma,218,Slugma,,Fire,,120,118,71,680,895
+Magcargo,219,Magcargo,,Fire,Rock,137,139,191,1404,1702
+Swinub,220,Swinub,,Ice,Ground,137,90,69,547,741
+Piloswine,221,Piloswine,,Ice,Ground,225,181,138,1992,2346
+Corsola,222,Corsola,,Water,Rock,146,118,156,1112,1378
+Remoraid,223,Remoraid,,Water,,111,127,69,694,912
+Octillery,224,Octillery,,Water,,181,197,141,1966,2315
+Delibird,225,Delibird,,Ice,Flying,128,128,90,858,1094
+Mantine,226,Mantine,,Water,Flying,163,148,226,1774,2109
+Skarmory,227,Skarmory,,Steel,Flying,163,148,226,1774,2109
+Houndour,228,Houndour,,Dark,Fire,128,152,83,979,1235
+Houndoom,229,Houndoom,,Dark,Fire,181,224,144,2259,2635
+Kingdra,230,Kingdra,,Water,Dragon,181,194,194,2271,2642
+Phanpy,231,Phanpy,,Ground,,207,107,98,952,1207
+Donphan,232,Donphan,,Ground,,207,214,185,2616,3014
+Porygon2,233,Porygon2,,Normal,,198,198,180,2335,2711
+Stantler,234,Stantler,,Normal,,177,192,131,1826,2165
+Smeargle,235,Smeargle,,Normal,,146,40,83,275,431
+Tyrogue,236,Tyrogue,,Fighting,,111,64,64,337,492
+Hitmontop,237,Hitmontop,,Fighting,,137,173,207,1820,2157
+Smoochum,238,Smoochum,,Ice,Psychic,128,153,91,1031,1292
+Elekid,239,Elekid,,Electric,,128,135,101,959,1207
+Magby,240,Magby,,Fire,,128,151,99,1062,1324
+Miltank,241,Miltank,,Normal,,216,157,193,2002,2355
+Blissey,242,Blissey,,Normal,,496,129,169,2333,2758
+Raikou,243,Raikou,,Electric,,207,241,195,3024,3452
+Entei,244,Entei,,Fire,,251,235,171,3041,3473
+Suicune,245,Suicune,,Water,,225,180,235,2585,2983
+Larvitar,246,Larvitar,,Rock,Ground,137,115,93,811,1040
+Pupitar,247,Pupitar,,Rock,Ground,172,155,133,1464,1766
+Tyranitar,248,Tyranitar,,Rock,Dark,225,251,207,3383,3835
+Lugia,249,Lugia,,Psychic,Flying,235,193,310,3254,3703
+Ho-Oh,250,Ho-Oh,,Fire,Flying,214,239,244,3411,3864
+Celebi,251,Celebi,,Psychic,Grass,225,210,210,2851,3266
+Treecko,252,Treecko,,Grass,,120,124,94,823,1053
+Grovyle,253,Grovyle,,Grass,,137,172,120,1377,1673
+Sceptile,254,Sceptile,,Grass,,172,223,169,2375,2757
+Torchic,255,Torchic,,Fire,,128,130,87,857,1094
+Combusken,256,Combusken,,Fire,Fighting,155,163,115,1359,1653
+Blaziken,257,Blaziken,,Fire,Fighting,190,240,141,2453,2848
+Mudkip,258,Mudkip,,Water,,137,126,93,888,1128
+Marshtomp,259,Marshtomp,,Water,Ground,172,156,133,1474,1777
+Swampert,260,Swampert,,Water,Ground,225,208,175,2578,2974
+Poochyena,261,Poochyena,,Dark,,111,96,61,493,678
+Mightyena,262,Mightyena,,Dark,,172,171,132,1609,1926
+Zigzagoon,263,Zigzagoon,,Normal,,116,58,80,349,509
+Linoone,264,Linoone,,Normal,,186,142,128,1368,1662
+Wurmple,265,Wurmple,,Bug,,128,75,59,407,578
+Silcoon,266,Silcoon,,Bug,,137,60,77,385,554
+Beautifly,267,Beautifly,,Bug,Flying,155,189,98,1455,1766
+Cascoon,268,Cascoon,,Bug,,137,60,77,385,554
+Dustox,269,Dustox,,Bug,Poison,155,98,162,970,1224
+Lotad,270,Lotad,,Water,Grass,120,71,77,426,599
+Lombre,271,Lombre,,Water,Grass,155,112,119,950,1197
+Ludicolo,272,Ludicolo,,Water,Grass,190,173,176,1976,2323
+Seedot,273,Seedot,,Grass,,120,71,77,426,599
+Nuzleaf,274,Nuzleaf,,Grass,Dark,172,134,78,969,1227
+Shiftry,275,Shiftry,,Grass,Dark,207,200,121,1977,2333
+Taillow,276,Taillow,,Normal,Flying,120,106,61,566,765
+Swellow,277,Swellow,,Normal,Flying,155,185,124,1602,1920
+Wingull,278,Wingull,,Water,Flying,120,106,61,566,765
+Pelipper,279,Pelipper,,Water,Flying,155,175,174,1795,2127
+Ralts,280,Ralts,,Psychic,Fairy,99,79,59,377,539
+Kirlia,281,Kirlia,,Psychic,Fairy,116,117,90,747,967
+Gardevoir,282,Gardevoir,,Psychic,Fairy,169,237,195,2687,3094
+Surskit,283,Surskit,,Bug,Water,120,93,87,593,792
+Masquerain,284,Masquerain,,Bug,Flying,172,192,150,1926,2271
+Shroomish,285,Shroomish,,Grass,,155,74,110,604,810
+Breloom,286,Breloom,,Grass,Fighting,155,241,144,2249,2629
+Slakoth,287,Slakoth,,Normal,,155,104,92,776,1002
+Vigoroth,288,Vigoroth,,Normal,,190,159,145,1648,1968
+Slaking,289,Slaking,,Normal,,284,290,166,3933,4432
+Nincada,290,Nincada,,Bug,Ground,104,80,126,572,769
+Ninjask,291,Ninjask,,Bug,Flying,156,199,112,1643,1970
+Shedinja,292,Shedinja,,Bug,Ghost,1,153,73,82,394
+Whismur,293,Whismur,,Normal,,162,92,42,474,671
+Loudred,294,Loudred,,Normal,,197,134,81,1057,1328
+Exploud,295,Exploud,,Normal,,232,179,137,1993,2348
+Makuhita,296,Makuhita,,Fighting,,176,99,54,603,817
+Hariyama,297,Hariyama,,Fighting,,302,209,114,2422,2829
+Azurill,298,Azurill,,Normal,Fairy,137,36,71,222,364
+Nosepass,299,Nosepass,,Rock,,102,82,215,758,994
+Skitty,300,Skitty,,Normal,,137,84,79,546,739
+Delcatty,301,Delcatty,,Normal,,172,132,127,1218,1496
+Sableye,302,Sableye,,Dark,Ghost,137,141,136,1202,1476
+Mawile,303,Mawile,,Steel,Fairy,137,155,141,1346,1635
+Aron,304,Aron,,Steel,Rock,137,121,141,1050,1308
+Lairon,305,Lairon,,Steel,Rock,155,158,198,1729,2056
+Aggron,306,Aggron,,Steel,Rock,172,198,257,2600,3000
+Meditite,307,Meditite,,Fighting,Psychic,102,78,107,509,694
+Medicham,308,Medicham,,Fighting,Psychic,155,121,152,1160,1431
+Electrike,309,Electrike,,Electric,,120,123,78,743,966
+Manectric,310,Manectric,,Electric,,172,215,127,1985,2341
+Plusle,311,Plusle,,Electric,,155,167,129,1475,1779
+Minun,312,Minun,,Electric,,155,147,150,1400,1695
+Volbeat,313,Volbeat,,Bug,,163,143,166,1469,1771
+Illumise,314,Illumise,,Bug,,163,143,166,1469,1771
+Roselia,315,Roselia,,Grass,Poison,137,186,131,1556,1870
+Gulpin,316,Gulpin,,Poison,,172,80,99,652,866
+Swalot,317,Swalot,,Poison,,225,140,159,1654,1978
+Carvanha,318,Carvanha,,Water,Dark,128,171,39,755,1021
+Sharpedo,319,Sharpedo,,Water,Dark,172,243,83,1813,2181
+Wailmer,320,Wailmer,,Water,,277,136,68,1166,1468
+Wailord,321,Wailord,,Water,,347,175,87,1899,2280
+Numel,322,Numel,,Fire,Ground,155,119,79,822,1058
+Camerupt,323,Camerupt,,Fire,Ground,172,194,136,1853,2194
+Torkoal,324,Torkoal,,Fire,,172,151,203,1762,2093
+Spoink,325,Spoink,,Psychic,,155,125,122,1074,1334
+Grumpig,326,Grumpig,,Psychic,,190,171,188,2019,2370
+Spinda,327,Spinda,,Normal,,155,116,116,971,1221
+Trapinch,328,Trapinch,,Ground,,128,162,78,1011,1275
+Vibrava,329,Vibrava,,Ground,Dragon,137,134,99,975,1225
+Flygon,330,Flygon,,Ground,Dragon,190,205,168,2288,2661
+Cacnea,331,Cacnea,,Grass,,137,156,74,981,1242
+Cacturne,332,Cacturne,,Grass,Dark,172,221,115,1941,2298
+Swablu,333,Swablu,,Normal,Flying,128,76,132,617,824
+Altaria,334,Altaria,,Dragon,Flying,181,141,201,1680,2005
+Zangoose,335,Zangoose,,Normal,,177,222,124,2054,2418
+Seviper,336,Seviper,,Poison,,177,196,118,1769,2106
+Lunatone,337,Lunatone,,Rock,Psychic,207,178,153,1978,2328
+Solrock,338,Solrock,,Rock,Psychic,207,178,153,1978,2328
+Barboach,339,Barboach,,Water,Ground,137,93,82,616,819
+Whiscash,340,Whiscash,,Water,Ground,242,151,141,1742,2076
+Corphish,341,Corphish,,Water,,125,141,99,980,1231
+Crawdaunt,342,Crawdaunt,,Water,Dark,160,224,142,2109,2474
+Baltoy,343,Baltoy,,Ground,Psychic,120,77,124,587,787
+Claydol,344,Claydol,,Ground,Psychic,155,140,229,1647,1972
+Lileep,345,Lileep,,Rock,Grass,165,105,150,1032,1292
+Cradily,346,Cradily,,Rock,Grass,200,152,194,1870,2211
+Anorith,347,Anorith,,Rock,Bug,128,176,100,1244,1530
+Armaldo,348,Armaldo,,Rock,Bug,181,222,174,2461,2849
+Feebas,349,Feebas,,Water,,85,29,85,154,275
+Milotic,350,Milotic,,Water,,216,192,219,2608,3006
+Castform Normal,351,Castform,Normal,Normal,,172,139,139,1342,1632
+Castform Normal,351,Castform,Normal,Normal,,172,139,139,1342,1632
+Castform Rainy,351,Castform,Rainy,Water,,172,139,139,1342,1632
+Castform Snowy,351,Castform,Snowy,Ice,,172,139,139,1342,1632
+Castform Sunny,351,Castform,Sunny,Fire,,172,139,139,1342,1632
+Kecleon,352,Kecleon,,Normal,,155,161,189,1721,2047
+Shuppet,353,Shuppet,,Ghost,,127,138,65,783,1019
+Banette,354,Banette,,Ghost,,162,218,126,1945,2299
+Duskull,355,Duskull,,Ghost,,85,70,162,513,706
+Dusclops,356,Dusclops,,Ghost,,120,124,234,1298,1592
+Tropius,357,Tropius,,Grass,Flying,223,136,163,1619,1941
+Chimecho,358,Chimecho,,Psychic,,181,175,170,1917,2260
+Absol,359,Absol,,Dark,,163,246,120,2149,2527
+Wynaut,360,Wynaut,,Psychic,,216,41,86,349,534
+Snorunt,361,Snorunt,,Ice,,137,95,95,677,888
+Glalie,362,Glalie,,Ice,,190,162,162,1775,2106
+Spheal,363,Spheal,,Ice,Water,172,95,90,738,963
+Sealeo,364,Sealeo,,Ice,Water,207,137,132,1414,1715
+Walrein,365,Walrein,,Ice,Water,242,182,176,2346,2726
+Clamperl,366,Clamperl,,Water,,111,133,135,1017,1271
+Huntail,367,Huntail,,Water,,146,197,179,1989,2340
+Gorebyss,368,Gorebyss,,Water,,146,211,179,2130,2495
+Relicanth,369,Relicanth,,Water,Rock,225,162,203,2162,2529
+Luvdisc,370,Luvdisc,,Water,,125,81,128,640,848
+Bagon,371,Bagon,,Dragon,,128,134,93,913,1157
+Shelgon,372,Shelgon,,Dragon,,163,172,155,1708,2032
+Salamence,373,Salamence,,Dragon,Flying,216,277,168,3296,3750
+Beldum,374,Beldum,,Steel,Psychic,120,96,132,755,977
+Metang,375,Metang,,Steel,Psychic,155,138,176,1424,1722
+Metagross,376,Metagross,,Steel,Psychic,190,257,228,3341,3792
+Regirock,377,Regirock,,Rock,,190,179,309,2709,3123
+Regice,378,Regice,,Ice,,190,179,309,2709,3123
+Registeel,379,Registeel,,Steel,,190,143,285,2078,2447
+Latias,380,Latias,,Dragon,Psychic,190,228,246,3079,3511
+Latios,381,Latios,,Dragon,Psychic,190,268,212,3359,3813
+Kyogre,382,Kyogre,,Water,,205,270,228,3646,4116
+Groudon,383,Groudon,,Ground,,205,270,228,3646,4116
+Rayquaza,384,Rayquaza,,Dragon,Flying,213,284,170,3375,3835
+Jirachi,385,Jirachi,,Steel,Psychic,225,210,210,2851,3266
+Deoxys Attack,386,Deoxys,Attack,Psychic,,137,414,46,2053,2580
+Deoxys Defense,386,Deoxys,Defense,Psychic,,137,144,330,1912,2274
+Deoxys Normal,386,Deoxys,Normal,Psychic,,137,345,115,2705,3161
+Deoxys Normal,386,Deoxys,Normal,Psychic,,137,345,115,2705,3161
+Deoxys Speed,386,Deoxys,Speed,Psychic,,137,230,218,2483,2880
+Turtwig,387,Turtwig,,Grass,,146,119,110,942,1187
+Grotle,388,Grotle,,Grass,,181,157,143,1578,1890
+Torterra,389,Torterra,,Grass,Ground,216,202,188,2542,2935
+Chimchar,390,Chimchar,,Fire,,127,113,86,738,957
+Monferno,391,Monferno,,Fire,Fighting,162,158,105,1287,1575
+Infernape,392,Infernape,,Fire,Fighting,183,222,151,2305,2684
+Piplup,393,Piplup,,Water,,142,112,102,842,1075
+Prinplup,394,Prinplup,,Water,,162,150,139,1406,1701
+Empoleon,395,Empoleon,,Water,Steel,197,210,186,2511,2901
+Starly,396,Starly,,Normal,Flying,120,101,58,526,719
+Staravia,397,Staravia,,Normal,Flying,146,142,94,1039,1299
+Staraptor,398,Staraptor,,Normal,Flying,198,234,140,2433,2826
+Bidoof,399,Bidoof,,Normal,,153,80,73,528,721
+Bibarel,400,Bibarel,,Normal,Water,188,162,119,1513,1823
+Kricketot,401,Kricketot,,Bug,,114,45,74,258,402
+Kricketune,402,Kricketune,,Bug,,184,160,100,1356,1653
+Shinx,403,Shinx,,Electric,,128,117,64,661,876
+Luxio,404,Luxio,,Electric,,155,159,95,1205,1486
+Luxray,405,Luxray,,Electric,,190,232,156,2495,2888
+Budew,406,Budew,,Grass,Poison,120,91,109,650,857
+Roserade,407,Roserade,,Grass,Poison,155,243,185,2570,2971
+Cranidos,408,Cranidos,,Rock,Rock,167,218,71,1483,1821
+Rampardos,409,Rampardos,,Rock,Rock,219,295,109,2847,3298
+Shieldon,410,Shieldon,,Rock,Steel,102,76,195,669,891
+Bastiodon,411,Bastiodon,,Rock,Steel,155,94,286,1236,1540
+Burmy Plant,412,Burmy,Plant,Bug,,120,53,83,330,489
+Burmy Sandy,412,Burmy,Sandy,Bug,,120,53,83,330,489
+Burmy Trash,412,Burmy,Trash,Bug,,120,53,83,330,489
+Burmy,412,Burmy,,Bug,,120,53,83,330,489
+Wormadam Plant,413,Wormadam,Plant,Bug,Grass,155,141,180,1471,1774
+Wormadam Sandy,413,Wormadam,Sandy,Bug,Ground,155,141,180,1471,1774
+Wormadam Trash,413,Wormadam,Trash,Bug,Steel,155,127,175,1306,1594
+Wormadam,413,Wormadam,,Bug,Grass,155,141,180,1471,1774
+Mothim,414,Mothim,,Bug,Flying,172,185,98,1500,1816
+Combee,415,Combee,,Bug,Flying,102,59,83,339,495
+Vespiquen,416,Vespiquen,,Bug,Flying,172,149,190,1682,2006
+Pachirisu,417,Pachirisu,,Electric,,155,94,172,959,1214
+Buizel,418,Buizel,,Water,,146,132,67,815,1055
+Floatzel,419,Floatzel,,Water,,198,221,114,2074,2443
+Cherubi,420,Cherubi,,Grass,,128,108,92,732,950
+Cherrim Overcast,421,Cherrim,Overcast,Grass,,172,170,153,1722,2048
+Cherrim Sunny,421,Cherrim,Sunny,Grass,,172,170,153,1722,2048
+Cherrim,421,Cherrim,,Grass,,172,170,153,1722,2048
+Shellos East Sea,422,Shellos,East Sea,Water,,183,103,105,892,1136
+Shellos West Sea,422,Shellos,West Sea,Water,,183,103,105,892,1136
+Shellos,422,Shellos,,Water,,183,103,105,892,1136
+Gastrodon East Sea,423,Gastrodon,East Sea,Water,Ground,244,169,143,1972,2325
+Gastrodon West Sea,423,Gastrodon,West Sea,Water,Ground,244,169,143,1972,2325
+Gastrodon,423,Gastrodon,,Water,Ground,244,169,143,1972,2325
+Ambipom,424,Ambipom,,Normal,,181,205,143,2060,2418
+Drifloon,425,Drifloon,,Ghost,Flying,207,117,80,940,1197
+Drifblim,426,Drifblim,,Ghost,Flying,312,180,102,2006,2382
+Buneary,427,Buneary,,Normal,,146,130,105,1005,1259
+Lopunny,428,Lopunny,,Normal,,163,156,194,1733,2060
+Mismagius,429,Mismagius,,Ghost,,155,211,187,2244,2616
+Honchkrow,430,Honchkrow,,Dark,Flying,225,243,103,2310,2712
+Glameow,431,Glameow,,Normal,,135,109,82,716,934
+Purugly,432,Purugly,,Normal,,174,172,133,1634,1953
+Chingling,433,Chingling,,Psychic,,128,114,94,781,1006
+Stunky,434,Stunky,,Poison,Dark,160,121,90,907,1151
+Skuntank,435,Skuntank,,Poison,Dark,230,184,132,2002,2359
+Bronzor,436,Bronzor,,Steel,Psychic,149,43,154,407,603
+Bronzong,437,Bronzong,,Steel,Psychic,167,161,213,1897,2239
+Bonsly,438,Bonsly,,Rock,,137,124,133,1045,1302
+Mime Jr,439,Mime Jr,,Psychic,Fairy,85,125,142,858,1096
+Happiny,440,Happiny,,Normal,,225,25,77,206,371
+Chatot,441,Chatot,,Normal,Flying,183,183,91,1475,1792
+Spiritomb,442,Spiritomb,,Ghost,Dark,137,169,199,1743,2073
+Gible,443,Gible,,Dragon,Ground,151,124,84,872,1113
+Gabite,444,Gabite,,Dragon,Ground,169,172,125,1561,1875
+Garchomp,445,Garchomp,,Dragon,Ground,239,261,193,3501,3962
+Munchlax,446,Munchlax,,Normal,,286,137,117,1565,1892
+Riolu,447,Riolu,,Fighting,,120,127,78,767,994
+Lucario,448,Lucario,,Fighting,Steel,172,236,144,2320,2703
+Hippopotas,449,Hippopotas,,Ground,,169,124,118,1094,1358
+Hippowdon,450,Hippowdon,,Ground,,239,201,191,2682,3086
+Skorupi,451,Skorupi,,Poison,Bug,120,93,151,782,1010
+Drapion,452,Drapion,,Poison,Dark,172,180,202,2096,2453
+Croagunk,453,Croagunk,,Poison,Fighting,134,116,76,731,953
+Toxicroak,454,Toxicroak,,Poison,Fighting,195,211,133,2122,2488
+Carnivine,455,Carnivine,,Grass,,179,187,136,1822,2159
+Finneon,456,Finneon,,Water,,135,96,116,750,972
+Lumineon,457,Lumineon,,Water,,170,142,170,1508,1814
+Mantyke,458,Mantyke,,Water,Flying,128,105,179,993,1248
+Snover,459,Snover,,Ice,Grass,155,115,105,916,1160
+Abomasnow,460,Abomasnow,,Ice,Grass,207,178,158,2011,2362
+Weavile,461,Weavile,,Dark,Ice,172,243,171,2603,3005
+Magnezone,462,Magnezone,,Electric,Steel,172,238,205,2791,3205
+Lickilicky,463,Lickilicky,,Normal,,242,161,181,2105,2467
+Rhyperior,464,Rhyperior,,Ground,Rock,251,241,190,3287,3734
+Tangrowth,465,Tangrowth,,Grass,,225,207,184,2631,3030
+Electivire,466,Electivire,,Electric,,181,249,163,2671,3080
+Magmortar,467,Magmortar,,Fire,,181,247,172,2722,3133
+Togekiss,468,Togekiss,,Fairy,Flying,198,225,217,2913,3332
+Yanmega,469,Yanmega,,Bug,Flying,200,231,156,2548,2946
+Leafeon,470,Leafeon,,Grass,,163,216,219,2549,2945
+Glaceon,471,Glaceon,,Ice,,163,238,205,2717,3127
+Gliscor,472,Gliscor,,Ground,Flying,181,185,222,2316,2692
+Mamoswine,473,Mamoswine,,Ice,Ground,242,247,146,2900,3329
+Porygon Z,474,Porygon Z,,Normal,,198,264,150,2842,3267
+Gallade,475,Gallade,,Psychic,Fighting,169,237,195,2687,3094
+Probopass,476,Probopass,,Rock,Steel,155,135,275,1741,2080
+Dusknoir,477,Dusknoir,,Ghost,,128,180,254,2027,2389
+Froslass,478,Froslass,,Ice,Ghost,172,171,150,1715,2041
+Rotom Fan,479,Rotom,Fan,Electric,Flying,137,204,219,2207,2580
+Rotom Frost,479,Rotom,Frost,Electric,Ice,137,204,219,2207,2580
+Rotom Heat,479,Rotom,Heat,Electric,Fire,137,204,219,2207,2580
+Rotom Mow,479,Rotom,Mow,Electric,Grass,137,204,219,2207,2580
+Rotom Normal,479,Rotom,Normal,Electric,Ghost,137,185,159,1705,2031
+Rotom Wash,479,Rotom,Wash,Electric,Water,137,204,219,2207,2580
+Rotom,479,Rotom,,Electric,Ghost,137,185,159,1705,2031
+Uxie,480,Uxie,,Psychic,,181,156,270,2154,2524
+Mesprit,481,Mesprit,,Psychic,,190,212,212,2657,3058
+Azelf,482,Azelf,,Psychic,,181,270,151,2788,3211
+Dialga,483,Dialga,,Steel,Dragon,205,275,211,3572,4039
+Palkia,484,Palkia,,Water,Dragon,189,280,215,3525,3991
+Heatran,485,Heatran,,Fire,Steel,209,251,213,3308,3755
+Regigigas,486,Regigigas,,Normal,,221,287,210,3862,4346
+Giratina Altered,487,Giratina,Altered,Ghost,Dragon,284,187,225,2952,3380
+Giratina Origin,487,Giratina,Origin,Ghost,Dragon,284,225,187,3239,3684
+Giratina,487,Giratina,,Ghost,Dragon,284,187,225,2952,3380
+Cresselia,488,Cresselia,,Psychic,,260,152,258,2459,2858
+Phione,489,Phione,,Water,,190,162,162,1775,2106
+Manaphy,490,Manaphy,,Water,,225,210,210,2851,3266
+Darkrai,491,Darkrai,,Dark,,172,285,198,3285,3740
+Shaymin Land,492,Shaymin,Land,Grass,,225,210,210,2851,3266
+Shaymin Sky,492,Shaymin,Sky,Grass,Flying,225,261,166,3150,3593
+Shaymin,492,Shaymin,,Grass,,225,210,210,2851,3266
+Arceus Bug,493,Arceus,Bug,Bug,,237,238,238,3530,3990
+Arceus Dark,493,Arceus,Dark,Dark,,237,238,238,3530,3990
+Arceus Dragon,493,Arceus,Dragon,Dragon,,237,238,238,3530,3990
+Arceus Electric,493,Arceus,Electric,Electric,,237,238,238,3530,3990
+Arceus Fairy,493,Arceus,Fairy,Fairy,,237,238,238,3530,3990
+Arceus Fighting,493,Arceus,Fighting,Fighting,,237,238,238,3530,3990
+Arceus Fire,493,Arceus,Fire,Fire,,237,238,238,3530,3990
+Arceus Flying,493,Arceus,Flying,Flying,,237,238,238,3530,3990
+Arceus Ghost,493,Arceus,Ghost,Ghost,,237,238,238,3530,3990
+Arceus Grass,493,Arceus,Grass,Grass,,237,238,238,3530,3990
+Arceus Ground,493,Arceus,Ground,Ground,,237,238,238,3530,3990
+Arceus Ice,493,Arceus,Ice,Ice,,237,238,238,3530,3990
+Arceus Normal,493,Arceus,Normal,Normal,,237,238,238,3530,3990
+Arceus Poison,493,Arceus,Poison,Poison,,237,238,238,3530,3990
+Arceus Psychic,493,Arceus,Psychic,Psychic,,237,238,238,3530,3990
+Arceus Rock,493,Arceus,Rock,Rock,,237,238,238,3530,3990
+Arceus Steel,493,Arceus,Steel,Steel,,237,238,238,3530,3990
+Arceus Water,493,Arceus,Water,Water,,237,238,238,3530,3990
+Arceus,493,Arceus,,Normal,,237,238,238,3530,3990
+Meltan,808,Meltan,,Steel,,130,118,99,836,1068
+Melmetal,809,Melmetal,,Steel,,264,226,190,3161,3600
